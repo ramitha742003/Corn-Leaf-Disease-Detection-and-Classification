@@ -8,7 +8,12 @@ Implement a Streamlit web application for real-time disease detection from uploa
 
 Tools used: Jupyter notebook, Python, Tensorflow/Keras, Streamlit.
 
+# Kaggle Dataset
+
+https://www.kaggle.com/datasets/abdelrahmanemad2199/corn-or-maize-leaf-disease-dataset
+
 # Images
+
 
 
 
