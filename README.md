@@ -4,13 +4,15 @@ Designed and trained a CNN-based model capable of detecting and classifying mult
 
 Evaluated the system’s performance using appropriate metrics like confusion matrix, accuracy, precision, recall, etc.
 
-Implement a Streamlit web application for real-time disease detection from uploaded leaf images.
+Implemented a Streamlit web application for real-time disease detection from uploaded leaf images.
 
 Tools used: Jupyter notebook, Python, Tensorflow/Keras, Streamlit.
 
 # Kaggle Dataset
 
-https://www.kaggle.com/datasets/abdelrahmanemad2199/corn-or-maize-leaf-disease-dataset
+kaggle dataset for corn leaf images - https://www.kaggle.com/datasets/abdelrahmanemad2199/corn-or-maize-leaf-disease-dataset
+
+kaggle dataset for natural images (not corn leaf) images - https://www.kaggle.com/datasets/prasunroy/natural-images
 
 # Images
 
