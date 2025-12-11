@@ -6,7 +6,7 @@ Evaluated the system’s performance using appropriate metrics like confusion ma
 
 Implemented a Streamlit web application for real-time disease detection from uploaded leaf images.
 
-Tools used: Jupyter notebook, Python, Tensorflow/Keras, Streamlit.
+Tools used: Jupyter notebook, Python, Streamlit, Tensorflow/keras, Matplotlib/Seaborn, sklearn, numpy.
 
 # Kaggle Dataset
 
