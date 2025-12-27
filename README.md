@@ -16,36 +16,35 @@ kaggle dataset for natural images (not corn leaf) images - https://www.kaggle.co
 
 # Images
 
-Corn Leaf Disease Detection System Home Page
+Corn Leaf Disease Detection System UI
 
 <img width="940" height="312" alt="image" src="https://github.com/user-attachments/assets/d57154ee-f60a-4c1e-bbc7-74bcab1f726a" />
 
-Blight Disease Detected
+Blight Leaf Disease Detected
 
-<img width="940" height="211" alt="image" src="https://github.com/user-attachments/assets/09be94b9-fea0-4088-b368-7d9d31406489" />
-<img width="940" height="302" alt="image" src="https://github.com/user-attachments/assets/52819ca4-375b-4a21-a045-a13c22ba5e74" />
-<img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/00807531-306a-43df-8b92-7dee833e4cc6" />
+<img width="940" height="194" alt="image" src="https://github.com/user-attachments/assets/b549c8d8-dcf9-4e09-a8b8-65c2c8f60dda" />
+<img width="940" height="383" alt="image" src="https://github.com/user-attachments/assets/6209edb5-8820-4c9d-9035-0adbd9d2d686" />
 
-Common Rust Disease Detected
+Common Rust Leaf Disease Detected
 
-<img width="940" height="214" alt="image" src="https://github.com/user-attachments/assets/2cd3caa5-8245-4687-8f8f-ed97ab171735" />
-<img width="940" height="252" alt="image" src="https://github.com/user-attachments/assets/a745e0b7-46fc-42f4-a784-4bf181616c58" />
-<img width="940" height="209" alt="image" src="https://github.com/user-attachments/assets/7af3f2f5-a0f5-4bff-97bd-5006c5e6217e" />
+<img width="940" height="205" alt="image" src="https://github.com/user-attachments/assets/6f72adcf-3b5b-46f4-9ce9-c53ff69e9034" />
+<img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/7fbd7127-6ea6-43fc-a6fb-4d3ff05bb231" />
 
-Gray Leaf Spot Disease Detected
+Gray Leaf Spot Leaf Disease Detected
 
-<img width="940" height="215" alt="image" src="https://github.com/user-attachments/assets/df73f9f7-778a-4554-802b-0ba5ce206f23" />
-<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/8e6f9d2f-cbb5-431c-98c5-9146f7b8f6ad" />
+<img width="940" height="194" alt="image" src="https://github.com/user-attachments/assets/90ef93b9-e875-453f-b6d1-23c3cfad348b" />
+<img width="940" height="369" alt="image" src="https://github.com/user-attachments/assets/d38430e1-ac54-4805-b778-75700c892c2d" />
 
 Healthy Leaf Detected
 
-<img width="940" height="215" alt="image" src="https://github.com/user-attachments/assets/2531ba87-f9b5-4fd4-b22a-074825ffcf5a" />
-<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/84935b0c-74e0-49e1-a95f-f1abbfc132f0" />
+<img width="940" height="189" alt="image" src="https://github.com/user-attachments/assets/3e04be1c-44fa-4d68-b68d-da01fafa3522" />
+<img width="940" height="375" alt="image" src="https://github.com/user-attachments/assets/746c9c6e-0e2a-4e4e-ab27-cefcd61af3e7" />
 
 Not Corn Leaf Detected
 
-<img width="940" height="214" alt="image" src="https://github.com/user-attachments/assets/6f3c5d85-e64d-4f67-9f6e-1c683748b9d6" />
-<img width="940" height="292" alt="image" src="https://github.com/user-attachments/assets/cb1e66f6-3895-44c0-a192-9d41bf2d9741" />
+<img width="940" height="214" alt="image" src="https://github.com/user-attachments/assets/4ecd8720-9be2-4a91-9145-2a106d8d46ed" />
+<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/ef495907-9ec8-4b1c-af4d-4381827a6ad3" />
+
 
 
 
