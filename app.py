@@ -97,6 +97,7 @@ if uploaded_file:
 
     if class_name == "Not_Corn_Leaf":
 
+        st.subheader(f"**Prediction: {class_name}**")
         st.write(f"**Model Accuracy:** {MODEL_ACCURACY:.2f}%")
         st.error("❌ This image is NOT a corn leaf.")
         st.info("Please upload a clear image of a single corn leaf.")
