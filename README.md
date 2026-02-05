@@ -42,8 +42,9 @@ Healthy Leaf Detected
 
 Not Corn Leaf Detected
 
-<img width="940" height="214" alt="image" src="https://github.com/user-attachments/assets/4ecd8720-9be2-4a91-9145-2a106d8d46ed" />
-<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/ef495907-9ec8-4b1c-af4d-4381827a6ad3" />
+<img width="936" height="351" alt="image" src="https://github.com/user-attachments/assets/6c6e259b-0463-4d25-87f2-ce718923d216" />
+<img width="934" height="233" alt="image" src="https://github.com/user-attachments/assets/af18e2cd-801e-4676-895d-1522966acb4d" />
+
 
 
 
